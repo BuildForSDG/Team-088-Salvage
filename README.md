@@ -3,7 +3,6 @@ A one-liner phrase describing this project or app
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/538c1de230484a48b11e8c75b06c1609)](https://app.codacy.com/gh/BuildForSDG/Team-088-Salvage?utm_source=github.com&utm_medium=referral&utm_content=BuildForSDG/Team-088-Salvage&utm_campaign=Badge_Grade_Dashboard)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/538c1de230484a48b11e8c75b06c1609)](https://app.codacy.com/gh/BuildForSDG/Team-088-Salvage?utm_source=github.com&utm_medium=referral&utm_content=BuildForSDG/Team-088-Salvage&utm_campaign=Badge_Grade_Settings)
 [![Codacy Badge](https://img.shields.io/badge/Code%20Quality-D-red)](https://img.shields.io/badge/Code%20Quality-D-red)
-ea828a36217d4cc293cb22103305fce5
 
 ## About
 
