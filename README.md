@@ -3,7 +3,6 @@ A one-liner phrase describing this project or app
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/538c1de230484a48b11e8c75b06c1609)](https://app.codacy.com/gh/BuildForSDG/Team-088-Salvage?utm_source=github.com&utm_medium=referral&utm_content=BuildForSDG/Team-088-Salvage&utm_campaign=Badge_Grade_Dashboard)
 
 [![codecov](https://codecov.io/gh/BuildForSDG/Team-088-Salvage/branch/develop/graph/badge.svg)](https://codecov.io/gh/BuildForSDG/Team-088-Salvage)
-[![Codacy Badge](https://img.shields.io/badge/Code%20Quality-D-red)](https://img.shields.io/badge/Code%20Quality-D-red)
 
 ## About
 This project is designed to reduce the number of life lost to road accidents on Nigeria major roads due to response time lag from the rescuers. Aims to automate the Road Accident Maintainance Agency form filled by passengers in the park so as to automatically link cars to the rescue team (FRSC, Hospitals and Police station) for timely response to rescue accident victims. 
