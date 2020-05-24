@@ -1,12 +1,12 @@
 /* Set background-image */
 .body_background {
   background-image: linear-gradient(rgba(202, 224, 228, 0.6), rgba(240, 198, 236, 0.4)), url(../image/autobahn-837643_1280.jpg);
-    /* background-image: url(../image/autobahn-837643_1280.jpg); */
-   
-      /* background-size: 100%; */
-        background-repeat: no-repeat;
-          background-attachment: fixed;
-            background-position: center;
+    
+  /* background-image: url(../image/autobahn-837643_1280.jpg); */   
+  /* background-size: 100%; */
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
 }
 
 /* end background-image setting */
@@ -14,8 +14,8 @@
 /* Adjust h1 element */
 h1 {
   text-align: center;
-    margin-right: 5%;
-      margin-left: 5%;
+  margin-right: 5%;
+  margin-left: 5%;
 }
 
 /* h1 adjustment ends */
@@ -23,12 +23,12 @@ h1 {
 /* button positioning */
 .wrapper {
   text-align: center;
-    margin-top: 20%;
+  margin-top: 20%;
 }
 
 .button {
   position: absolute;
-    top: 50;
+  top: 50;
 }
 
 /* button ends */
@@ -36,10 +36,10 @@ h1 {
 /* footer design */
 .myFooter {
   background-color: brown;
-    opacity: 0.6;
-      margin-top: 30%;
-        padding: 10px;
-          text-align: center;
-            width: auto;
-              height: 70px;
+  opacity: 0.6;
+  margin-top: 30%;
+  padding: 10px;
+  text-align: center;
+  width: auto;
+  height: 70px;
 }
